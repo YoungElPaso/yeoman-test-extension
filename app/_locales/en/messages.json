@@ -1,0 +1,10 @@
+{
+  "appName": {
+    "message": "Drupal7",
+    "description": "The name of the application"
+  },
+  "appDescription": {
+    "message": "An extension that creates some shortcuts for D7",
+    "description": "The description of the application"
+  }
+}
